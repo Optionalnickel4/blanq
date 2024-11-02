@@ -5,15 +5,20 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Bianqa's Supporter MInecraft Server
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[All the Mods 9](minecraft://blanq.justnickel.live)
 
+
+# Contact
+
+[Bianqa]<email@domain.com>
+
+[JustNickel]<nickel@justnickel.live>
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
+{Add Terms of use here; make sure you imply no indemnification, also add some rules of engagement of the server and Discord.}
 
 # Privacy Policy
 
@@ -21,3 +26,8 @@ This website does not collect any data, but third party integrations may collect
 
 - Mcsrvstat.us: Displays Minecraft server status
 - Widgetbot: Displays Discord server preview
+
+
+# License
+
+Licensed through [Moonrise MC](https://github.com/coffeebank/moonrise). Buy them a cup of coffee!
