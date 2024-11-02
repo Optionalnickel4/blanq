@@ -6,7 +6,7 @@ An All the Mods 9 Forge Minecraft Server focused on (your additional descrtiptio
 
 <br />
 
-[![Bianqa's Discord](https://img.shields.io/badge/Support%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
+[![Bianqa's Discord](https://img.shields.io/badge/Support%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AwyQGVfP4t)
 
 ## License
 
