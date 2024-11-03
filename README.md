@@ -2,7 +2,7 @@
 
 # Bianqa's Minecraft Server
 
-An All the Mods 9 Forge Minecraft Server for [allforbianqa](https://twitch.tv/allforbianq)
+An All the Mods 9 Forge Minecraft Server for [allforbianqa](https://twitch.tv/allforbianq) suppoters
 
 <br />
 
