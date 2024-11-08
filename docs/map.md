@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://tts.map.justnickel.live
+tourl: https://blanq.map.justnickel.live
 ---
