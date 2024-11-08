@@ -29,10 +29,10 @@ discordChannelID: 1304430805036306532
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
-# siteNav:
-#   - name: Server Map
-#     url: map
-#     newtab: true
+ siteNav:
+   - name: MAP
+     url: https://blanq.map.justnickel.live/
+     newtab: true
 #   - name: Screenshots
 #     url: screenshots
 #   - name: About
