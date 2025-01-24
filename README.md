@@ -16,7 +16,7 @@ See [LICENSE](LICENSE.md).
 ## Attributions
 
 #### Just Nickel
-- https://justnickel.live
+
 
 #### Services
 - https://api.mcsrvstat.us/
