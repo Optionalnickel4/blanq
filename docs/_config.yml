@@ -1,7 +1,7 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://status.blanq.justnickel.live"
+url: "https://status.blanq.jushosting.dev"
 baseurl: "/"
 siteIcon: /media/android-chrome-192x192.png
 siteLogo: /media/Brand/Creators/Allforbianqa/main.png
@@ -14,7 +14,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: BLANQ's All the Mods 9 Server
 serverDescription: BLANQ's supporter server!!!
-serverIP: blanq.justnickel.live
+serverIP: blanq.jushosting.dev
 useBedrockForOnlineStatus: false
 
 
